@@ -14,3 +14,8 @@
 - 任務拖拉
 - 任務狀態即時同步更新
 - 彈窗 Dialog 編輯介面
+
+## 實際頁面
+![image](https://i.imgur.com/9psVJ8f.png)
+![image](https://i.imgur.com/WoJmYzV.png)
+![image](https://i.imgur.com/RiUNVYz.png)
