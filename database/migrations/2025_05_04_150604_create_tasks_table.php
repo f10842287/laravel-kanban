@@ -15,6 +15,10 @@ return new class extends Migration
             $table->id();
             $table->string('title');
             $table->enum('status', ['todo', 'doing', 'review', 'done'])->default('todo');
+            $table->text('description')->nullable();
+            $table->string('label')->nullable();
+            $table->date('due_date')->nullable();
+            $table->string('priority')->nullable();
             $table->timestamps();
         });
     }
